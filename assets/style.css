@@ -1,0 +1,16 @@
+/* Faire un dark theme et un light theme */
+
+body {
+	background-color: white;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+	font-family: 'Big Shoulders Text', cursive;
+}
+
+.dark_theme {
+	background-color: black;
+	color: white;
+}
