@@ -46,21 +46,19 @@ main {
 section {
 	height: 100vh;
 	width: 100%;
-}
-
-/**** HOME PAGE ****/
-section#welcome_section {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 }
 
-section div#welcome_text, section div#profile_picture {
-	width: 75%;
+section div {
+	width: 65%;
 	margin: 0 auto;
 	text-align: center;
+	padding: 1em;
 }
 
+/**** HOME PAGE ****/
 section div#profile_picture img {
 	border: 6px solid white;
 	border-radius: 50%;
