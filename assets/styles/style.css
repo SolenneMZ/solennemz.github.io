@@ -25,14 +25,8 @@ nav {
 	align-items: center;
 }
 
-nav a {
-	display: block; /* pour que les <a> se comporte comme des <div> */
-	color: black;
-	text-decoration: none;
-	padding-left: 0.8em;
-}
-
-nav a:hover {
+nav div:hover {
+	cursor: pointer;
 	color: blue;
 	text-shadow: red 2px 5px;
 	text-decoration: none;
@@ -49,6 +43,10 @@ section {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+}
+
+section.hidden {
+	display: none;
 }
 
 section div {

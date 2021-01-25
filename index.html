@@ -16,20 +16,47 @@
 
 		<header>
 			<nav>
-				<a href="index.html">Accueil</a>
-				<a href="templates/about.html">À propos</a>
-				<a href="templates/projects.html">Projets</a>
-				<a href="templates/contact.html">Contact</a>
+				<div id="home_button" class="nav_button">Accueil</div>
+				<div id="about_button" class="nav_button">À propos</div>
+				<div id="projects_button" class="nav_button">Projets</div>
+				<div id="contact_button" class="nav_button">Contact</div>
 			</nav>
 		</header>
 		<main>
-			<section id="welcome_section">
-				<div id="welcome_text">
+			<section id="home_section" class="active-page">
+				<div id="home_text">
 					<h1>Je suis Solenne Mazabraud<br /> Et voici mon portfolio</h1>
 				</div>
 				<div id="profile_picture">
 					<img src="assets/icons/solenneMZ.jpg" alt="It's me!">
 				</div>
+			</section>
+
+			<section id="about_section" class="hidden">
+				<div>
+					<h1>À propos</h1>
+				</div>
+				<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed elit quis nisl volutpat ultricies eget volutpat ipsum. Sed non mauris a lectus efficitur cursus id a odio. Ut semper non ante sed hendrerit. Vivamus in libero aliquet, mattis nisl a, eleifend quam. In id viverra justo. Quisque purus sem, gravida a erat eget, sollicitudin egestas ligula. Pellentesque vitae sollicitudin massa. Etiam aliquet vehicula neque vel laoreet.</div>
+
+				<div>Curabitur vel metus quis dui dignissim fermentum. Mauris vulputate nisi id ligula volutpat lacinia. Proin accumsan turpis vel enim tincidunt, vitae condimentum nunc interdum. Donec feugiat ultrices ultricies. Maecenas iaculis nibh velit, faucibus congue sapien vestibulum sed. Nullam leo massa, sagittis ut lectus ac, iaculis auctor neque. Proin augue leo, tincidunt ut vehicula quis, posuere sit amet urna.</div>
+					
+				<div>Praesent aliquam interdum aliquet. Praesent vulputate euismod venenatis. In sed odio et ipsum dictum cursus. Vivamus vel tincidunt sapien. Fusce blandit justo sit amet tellus bibendum, non eleifend lacus eleifend. Donec tempus mi sit amet massa ullamcorper rhoncus. Nullam porttitor sem vitae justo sagittis dignissim. Vivamus et risus tortor. Curabitur gravida lacinia ex. Proin volutpat, ante sed porttitor fermentum, orci dui pellentesque velit, id auctor urna est vel est.</div>
+                <div>TODO: un texte sur moi + un lien vers mon CV (du lorem ipsum en attendant)</div>
+                <div><a href="../assets/files/CV_SMazabraud.pdf" target="_blank">Télécharger mon CV</a></div>
+			</section>
+
+			<section id="projects_section" class="hidden">
+				<div>
+					<h1>Mes projets</h1>
+				</div>
+				<div>TODO: Ajouter les projets </div>
+			</section>
+
+			<section id="contact_section" class="hidden">
+				<div>
+					<h1>Contact</h1>
+                </div>
+                <div>TODO: Mettre un formulaire de contact</div>
 			</section>
 	    	 			
 		</main>
@@ -37,5 +64,6 @@
 			<div>Icônes conçues par <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a></div>
 		</footer>
 
+		<script src="./app.js"></script>
     </body>
 </html>
