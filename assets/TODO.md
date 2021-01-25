@@ -14,3 +14,11 @@
 + penser à l'ajouter dans le CV et sur LM + LinkedIn
 
 avec JS ,faire apparaître les blocs (contact, propos, etc) ou disparaitre
+
+
+Lecture sur le switch button : 
+- https://dev.to/erikkroes/accessible-html-toggle-button-switch-o9e
+
+Article sur le Dark Mode : 
+- https://dev.to/mohammedfarmaan/the-best-way-to-dark-mode-your-website-1g7f
+- https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
