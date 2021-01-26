@@ -42,7 +42,15 @@ section {
 	width: 100%;
 	display: flex;
 	flex-direction: column;
+}
+
+section#home_section {
 	justify-content: center;
+}
+
+/* Toutes les sections sauf celle qui a l'id .home_section */
+section:not(#home_section) {
+	padding-top: 5em;
 }
 
 section.hidden {
