@@ -52,8 +52,11 @@ section.hidden {
 section div {
 	width: 65%;
 	margin: 0 auto;
-	text-align: center;
 	padding: 1em;
+}
+
+section#home_section div {
+	text-align: center;
 }
 
 /**** HOME PAGE ****/
@@ -81,7 +84,7 @@ footer {
 }
 
 
-/**** Switch button ****/
+/**** SWITCH BUTTON ****/
 /* The switch - the box around the slider */
 .switch {
 	position: relative;
