@@ -1,0 +1,22 @@
+titre A PROPOS
+sous-titre 
+
+
+J'aime travailler sur des projets novateurs et apprendre de nouvelles techniques. 
+Me documenter est important, j'ai appris à faire ça depuis longtemps grâce à mon cursus scolaire. 
+
+D'abord Back, puis FullStack sur le projet de fin de formation avec Symfony puis avec Vue.JS lors de ma première expérience pro. Du PHP, HTML, CSS, JavaScript, mes principaux atouts. 
+
+
+
+I design and code beautifully simple things, and I love what I do.
+
+
+where i live (France, Reims)
+
+
+En 2015, j'obtiens un master en sciences du langage grâce à mon mémoire sur l'étude du sarcasme sur Twitter. Internet m'avait prouvé qu'il était drôle et sympathique mais il lui aura fallu trois ans pour me séduire puisque ce n'est que fin 2018 que j'entame les démarches pour me reconvertir dans le Développement Web.
+
+Aujourd'hui, j'ai le Titre Professionnel de Développeuse web et web mobile et j'utilise principalement les framework Vue.js et Symfony pour mes projets pro et perso.
+
+Si vous souhaitez me connaître un peu plus, je suis facilement joignable par email 
