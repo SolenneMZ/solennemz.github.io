@@ -1,0 +1,52 @@
+/* Stylesheet for my website's themes */
+/**** LIGHT THEME ****/
+body.light_them {
+    background-color: white;
+	color: black;
+}
+
+body.light_theme nav {
+    background-color: white;
+	border-bottom: 0.2em solid lightgrey;
+}
+
+body.light_theme nav div:hover {
+	color: blue;
+	text-shadow: red 2px 5px;
+}
+
+body.light_theme main {
+    background-color: #ecf0f1;
+}
+
+body.light_theme section div#profile_picture img {
+    border: 6px solid white;
+	border-radius: 50%;
+}
+
+/**** DARK THEME ****/
+body.dark_theme {
+	background-color: black;
+    color: white;
+    /*background: linear-gradient(#000000, #2A2B2E);
+	color: white;*/
+}
+
+body.dark_theme nav {
+    background-color: #252525;
+	border-bottom: 0.2em solid lightgrey;
+}
+
+body.dark_theme nav div:hover {
+	color: red;
+	text-shadow: blue 2px 5px;
+}
+
+body.dark_theme main {
+    background-color: #121212;
+}
+
+body.dark_theme section div#profile_picture img {
+    border: 6px solid grey;
+	border-radius: 50%;
+}

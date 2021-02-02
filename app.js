@@ -18,6 +18,9 @@ var app = {
             app.showContactPage();
         });
 
+        document.querySelector('.btn-toggle').addEventListener('click', function(){
+            app.setTheme();
+        });
     },
     
     /**
@@ -54,6 +57,9 @@ var app = {
         };
     },
     
+    /**
+     * Afficher la page Projets du site
+     */
     showProjectsPage() {
         console.log("afficher la page Projets");
 
@@ -67,6 +73,9 @@ var app = {
         };
     },
 
+    /**
+     * Afficher la page Contact du site
+     */
     showContactPage() {
         console.log("afficher la page Contact");
 
@@ -78,8 +87,23 @@ var app = {
             document.getElementById('contact_section').classList.add('active-page');
             document.getElementById('contact_section').classList.remove('hidden');
         };
-    }
+    },
 
+    /**
+     * Changer le thème du site (Light par défaut)
+     */
+    setTheme() {
+        console.log("il faut changer le thème du site !");
+        console.log(document.body.classList.value);
+        if (document.body.classList.value == 'light_theme') {
+            document.body.classList.remove('light_theme');
+            document.body.classList.add('dark_theme');
+
+        } else {
+            document.body.classList.remove('dark_theme');
+            document.body.classList.add('light_theme');
+        }
+    },
 };
 
 
