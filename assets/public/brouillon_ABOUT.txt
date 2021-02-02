@@ -1,0 +1,12 @@
+A PROPOS
+Positive, curieuse, confiante, sens de la communication
+En 2015, j'obtiens un master en Sciences du Langage grâce à mon mémoire sur l'étude du sarcasme sur Twitter. Internet m'avait prouvé qu'il était drôle et sympathique, mais il lui aura fallu trois ans pour réussir à me séduire puisque ce n'est que fin 2018 que j'entame les démarches pour me reconvertir dans le Développement Web. Aujourd'hui, j'ai le Titre Professionnel de Développeuse Web et Web Mobile et je cherche à intégrer une équipe de développement pour travailler sur de super projets.
+
+MON PARCOURS
+J'ai d'abord été initiée à la programmation en apprenant les bases de <span>Python</span> pour étudier les phénomènes linguistiques à travers des bases de données publiques. Avant d'entrer en formation chez <a href="#">O'clock</a>, j'ai beaucoup pratiqué le duo iconique <span>HTML / CSS</span>, indispensable dans le développement web. Ensuite j'ai très vite adopté <span>PHP</span> avec qui nous avons passé de merveilleux moments sur <span>Symfony</span>. Puis j'ai fini par succomber à la popularité de <span>JavaScript</span> grace à qui j'ai découvert <span>Vue.JS</span>.
+
+MON OBJECTIF
+Apprendre plus autour d'un super projet animé par une équipe de développeurs passionnés.
+
+MES OUTILS
+JavaScript CSS HTML Twig Symfony Vue.JS Laravel Lumen Python PHP Doctrine Composer Bootstrap Git GitHub Terminal Joomla WordPress TypeScript Trello Slack VSCode PhpMyAdmin MySQL JQuery Bulma Agile
