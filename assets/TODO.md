@@ -19,3 +19,4 @@ Lecture sur le switch button :
 Article sur le Dark Mode : 
 - https://dev.to/mohammedfarmaan/the-best-way-to-dark-mode-your-website-1g7f
 - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
+- https://material.io/design/color/dark-theme.html#ui-application

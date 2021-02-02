@@ -2,7 +2,7 @@
 /**** LIGHT THEME ****/
 body.light_them {
     background-color: white;
-	color: black;
+	color: #121212;
 }
 
 body.light_theme nav {
@@ -26,15 +26,19 @@ body.light_theme section div#profile_picture img {
 
 /**** DARK THEME ****/
 body.dark_theme {
-	background-color: black;
+	background-color: #121212;
     color: white;
     /*background: linear-gradient(#000000, #2A2B2E);
 	color: white;*/
 }
 
+body.dark_theme img {
+	filter: brightness(.8) contrast(1.2);
+}
+
 body.dark_theme nav {
     background-color: #252525;
-	border-bottom: 0.2em solid lightgrey;
+	border-bottom: 0.2em solid #565656;
 }
 
 body.dark_theme nav div:hover {
